@@ -1,0 +1,6 @@
+INFO	2022-06-24 12:21:32,522	0	com.cjc.fk.webapp.test.ActualTest	[main]	open browser
+INFO	2022-06-24 12:28:48,339	0	com.cjc.fk.webapp.test.ActualTest	[main]	open browser
+INFO	2022-06-24 12:46:14,315	0	com.cjc.fk.webapp.test.ActualTest	[main]	open browser
+INFO	2022-06-24 12:47:14,329	0	com.cjc.fk.webapp.test.ActualTest	[main]	open browser
+INFO	2022-06-24 12:49:22,801	0	com.cjc.fk.webapp.test.ActualTest	[main]	open browser
+INFO	2022-06-24 13:10:45,861	0	com.cjc.fk.webapp.test.ActualTest	[main]	open browser
